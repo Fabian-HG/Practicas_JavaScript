@@ -1,0 +1,20 @@
+#boton:hover{
+    background-color: floralwhite;
+    transform:scale(1.1);
+}
+#apartado{
+    background-color: #2b2b2b;
+}
+#apartado h2{
+    color: antiquewhite;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: antiquewhite;
+    background-color:#2b2b2b;
+    border-radius: 15px;
+}
